@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=21&pause=1000&color=000000&background=FFFFFF&width=435&height=30&lines=Hi%2C+I'm+Hibran+Tapia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=21&pause=1000&color=000000&background=FFFFFF&width=435&height=30&lines=Hi%2C+I'm+Hibran+Tapia.)](https://git.io/typing-svg)
 
 <h4 align="center">I'm currently studying Data Science and Mathematics at Monterrey Institute of Technology and Higher Education.</h4>
 
