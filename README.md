@@ -5,9 +5,9 @@
 [![website](./img/banner.jpg)](https://linktr.ee/HibranTapia)
 
 - 💬 Ask me about: **Math and life.**
-- 📝 I regularly write articles on: [Medium.](https://medium.com/@hibrantapia)
+- 📝 I regularly write articles on: [**Medium.**](https://medium.com/@hibrantapia)
 - ⚡ Fun fact: **I love to play violin and guitar.**
-- 📫 How to reach me: hibrantapia@gmail.com
+- 📫 How to reach me: **hibrantapia@gmail.com**
 - 🌱 I’m currently learning: **Probability, Calculus, Statistics, Linear Programming and Linear Algebra.**
 - 🤝 I’m looking for help with: **New ways to contribute to the development of sustainable technologies through Data Science using Artificial Intelligence.**
 
