@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: **Math and life.**
 - 📝 I regularly write articles on: [**Medium.**](https://medium.com/@hibrantapia)
-- ⚡ Fun fact: **I love to play violin and guitar.**
+- ⚡ Fun fact: **I love to play piano and guitar.**
 - 📫 How to reach me: **hibrantapia@gmail.com**
 - 🌱 I’m currently learning: **Probability, Calculus, Statistics, Linear Programming and Linear Algebra.**
 - 🤝 I’m looking for help with: **New ways to contribute to the development of sustainable technologies through Data Science using Artificial Intelligence.**
