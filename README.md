@@ -25,8 +25,6 @@
 
 ### My GitHub Statistics Stuff:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hibrantapia&show_icons=true&locale=en&layout=compact&theme=dark" alt="hibrantapia" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibrantapia&show_icons=true&locale=en&theme=dark" alt="hibrantapia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibrantapia&show_icons=true&locale=en&theme=dark" alt="hibrantapia" /></p>
