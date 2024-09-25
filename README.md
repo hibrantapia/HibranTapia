@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibrantapia&show_icons=true&locale=en&theme=dark" alt="hibrantapia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hibrantapia&show_icons=true&locale=en&theme=dark" alt="hibrantapia" /></p>
-
-[![Hibran's stats](https://github-readme-stats.vercel.app/api/wakatime?username=kittinan&layout=compact)](https://github.com/hibrantapia/github-readme-stats)
