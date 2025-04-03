@@ -13,7 +13,7 @@
 
 ### Social:
 
- <p align="left"> <a href="https://twitter.com/HibranTapia" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Twitter" width="40" height="40"/> </a> <a href="https://instagram.com/HibranHTapia" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" alt="Instagram" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/hibrantapia/" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/LinkedIn-1024.png" alt="LinkedIn" width="40" height="40"/> </a> </p>
+ <p align="left"> <a href="https://twitter.com/HibranTapia" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-512.png" alt="Twitter" width="40" height="40"/> </a> <a href="https://instagram.com/HibranTapia" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-1024.png" alt="Instagram" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/hibrantapia/" target="_blank" rel="noreferrer"> <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/LinkedIn-1024.png" alt="LinkedIn" width="40" height="40"/> </a> </p>
 
 ### AI and ML Tools:
 
