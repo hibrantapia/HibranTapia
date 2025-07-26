@@ -2,7 +2,7 @@
 
 <h4 align="center">I’m a Data Science and Mathematics graduate from the Monterrey Institute of Technology and Higher Education.</h4>
 
-[![website](./img/banner.jpg)](https://linktr.ee/HibranTapia)
+[![website](./img/Banner.png)](https://linktr.ee/HibranTapia)
 
 - 💬 Ask me about: **Math and life.**
 - 📝 I regularly write articles on: [**Medium.**](https://medium.com/@hibrantapia)
